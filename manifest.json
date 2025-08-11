@@ -1,0 +1,20 @@
+{
+  "name": "????? ????? ???? ????? - ????? ??????",
+  "short_name": "????? ???? ????? ??????",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff",
+  "icons": [
+    {
+      "src": "https://bayanbox.ir/view/862692934747730734/192dar192icon.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://bayanbox.ir/view/5376372513865641950/512dar512icon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
