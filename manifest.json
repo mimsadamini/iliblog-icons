@@ -1,6 +1,6 @@
-{
-  "name": "کانون زبان ایران-استان اصفهان",
-  "short_name": "اخبار کانون",
+﻿{
+  "name": "وبلاگ کانون زبان ایران-استان اصفهان",
+  "short_name": "کانون زبان اصفهان",
   "start_url": "/",
   "display": "standalone",
   "background_color": "#ffffff",
@@ -17,5 +17,4 @@
       "type": "image/png"
     }
   ]
-
 }
